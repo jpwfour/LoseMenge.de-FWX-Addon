@@ -8,6 +8,7 @@ $files = array(
 	'admin/mods/addon.losemenge.inc.php',
 	'admin/mods/losemenge.inc.php',
 	'admin/templates/losemenge_home.tpl',
+	'cronjob/losemenge.inc.php',
 	'losemenge/.htaccess',
 	'losemenge/losemenge.php',
 	'losemenge/temp',

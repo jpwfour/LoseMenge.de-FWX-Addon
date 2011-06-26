@@ -3,7 +3,7 @@ FWX-Version: FrameWorkX 2.3 RC 4
 Installation: 
 
 - manuell:
-   Die 3 Verzeichnisse admin,losemenge,mods inkl. aller darin enthaltenen Dateien in das FWX Hauptverzeichnis kopieren.
+   Die 4 Verzeichnisse admin,cronjob,losemenge,mods inkl. aller darin enthaltenen Dateien in das FWX Hauptverzeichnis kopieren.
 
 - Paketmanager:
 

@@ -9,6 +9,6 @@ Zum Schlu&szlig; musst du dich noch auf <a href="http://www.losemenge.de/exportf
 Vielen Dank f&uuml;r deine Teilnahme!
 <br />
 M&ouml;chtest du einen zus&auml;tzlichen Schutz, dass die Lose auch garantiert auf den ExportForce-Account zur&uuml;cktransferiert werden, kannst du einen Cronjob einrichten, der in
-m&ouml;glichst geringen Abst&auml;nden das Script mit <code>losemenge.php?act=3</code> auf diesem Webserver aufruft. Sollte mal eine R&uuml;ckbuchung von Losemenge.de innerhalb von 60 Sekunden
+m&ouml;glichst geringen Abst&auml;nden das Script mit <code>%config_siteurl%/losemenge/losemenge.php?act=3</code> auf diesem Webserver aufruft. Alternativ kann auch der Cronjob <code>%config_siteurl%/page.php?cat=cronjob&t=losemenge&pwd=CRONJOB_PASSWORT</code> genutzt werden. Sollte mal eine R&uuml;ckbuchung von Losemenge.de innerhalb von 60 Sekunden
 nicht ausgel&ouml;st werden, wird diese durch den Cronjob ausgel&ouml;st.<br />
 <br />
